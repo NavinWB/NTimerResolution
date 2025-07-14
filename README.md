@@ -1,5 +1,5 @@
 # NTimerResolution
-Herramienta mas para modificar la resolucion del temporizador de windows
+Herramienta para modificar la resolucion del temporizador de windows
 
 
 Para que esta funcione correctamente usa el .bat y .reg includos
