@@ -1,4 +1,4 @@
-# NTimerResolution
+# Navin/TimerResolution
 Herramienta para modificar la resolucion del temporizador de windows
 
 
